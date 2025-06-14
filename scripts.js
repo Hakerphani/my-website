@@ -3,7 +3,7 @@ const videos = [
     {
         id: 1,
         title: "Sample Video 1",
-        thumbnail: "thumbnails/thumb1.png",
+        thumbnail: "thumb1.png",
         src: "videos/video1.mp4",
         description: "This is the first sample video.",
         duration: "2:08"
@@ -11,7 +11,7 @@ const videos = [
     {
         id: 2,
         title: "Sample Video 2",
-        thumbnail: "thumbnails/thumb1.png",
+        thumbnail: "thumb1.png",
         src: "videos/video1.mp4",
         description: "This is the second sample video.",
         duration: "3:45"
